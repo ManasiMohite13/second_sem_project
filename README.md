@@ -1,5 +1,4 @@
-# second_sem_project
-This was my second sem project of MCA.
+# JetSet Explore
 
 ## Overview
 The website project is an innovative online platform designed to provide users with an 
